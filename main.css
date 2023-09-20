@@ -1,0 +1,119 @@
+body {
+	background-image: url("/home/chris/Downloads/bkg.jpg");
+	background-size: 100%;
+}
+
+h1 {
+	color: #00ff00;
+	border: 2px solid #00ff00;
+	padding: 8px;
+	padding-top: 16px;
+	text-align: center;
+	background-color: black;
+}
+
+.leftBarUl {
+	border: 2px solid #00ff00;
+	text-align: left;
+	list-style-type: none;
+	
+	padding: 8px;
+
+	margin-top:5%;
+
+	width: 10%;
+	
+	background-color: #000000;
+
+	float: left;
+}
+
+.leftBarLi {
+	font-size: 18pt;
+	color: #00ff00;
+
+	padding: 4px;
+	padding-left: 16px;
+
+	margin-top: 5%;
+	margin-right:10%;
+
+	float: left;
+}
+
+.rightBarUl {
+	border: 2px solid #00ff00;
+	text-align: left;
+	list-style-type: none;
+
+	padding: 8px;
+
+	margin-top: 5%;
+
+	width: 10%;
+
+	background-color: #000000;
+
+	float: right;
+}
+
+.rightBarLi {
+	font-size: 18pt;
+	color: #00ff00;
+
+	padding: 4px;
+	padding-left:16px;
+
+	margin-top: 5%;
+	margin-right: 10%;
+
+	float: left;
+}
+
+button[id=openButton] {
+	position: absolute;
+
+	font-size: 18pt;
+
+	margin-left: 71.5%;
+	margin-top: 8px;
+
+	background-color: #000000;
+	color: #00ff00;
+
+	border: 2px solid #00ff00;
+}
+
+iframe[id=ifDisplay] {
+	position: absolute;
+
+	margin-left: 2%;
+	margin-top: 4%;
+
+	width: 72.5%;
+	height: 75%;
+
+	border: 2px solid #00ff00;
+
+	background-color: default;
+}
+
+input[type="text"] {
+	position: absolute;
+
+	border: 2px solid #00ff00;
+
+	margin-top: 8px;
+	margin-left: 2%;
+
+	font-size: 18pt;
+
+	width: 72.5%;	
+	
+	color: #00ff00;
+	background-color: #000000;
+}
+
+a {
+	color: #00ff00;
+}
