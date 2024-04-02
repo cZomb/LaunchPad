@@ -18,6 +18,8 @@ center text field and iframe are used for opening local files or embedding websi
 
 Right column will link to javascript applications such as a calender, calculator, etcetc <br />
 
+Calculator was made using the sample code from the tutorial on GeeksForGeeks found here: https://www.geeksforgeeks.org/javascript-calculator/
+
 ## Roadmap
 
 Currently working on adding a calendar web app and calculator web app written in javascript <br />
